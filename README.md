@@ -7,7 +7,7 @@
 * ☑️ To be as safe as possible, remove all previous in-app and meta references to Patreon, `ryujinx.org` etc
 <h1 align="center">
   <br>
-  <a href="https://github.com/ryujinx-mirror/ryujinx"><img src="distribution/misc/Logo.svg" alt="Ryujinx" width="150"></a>
+  <a href="https://github.com/KapitenCool/kyronix"><img src="distribution/misc/IMG_7388.png" alt="Ryujinx" width="150"></a>
   <br>
   <b>Ryujinx</b>
   <br>
