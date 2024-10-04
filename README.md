@@ -9,7 +9,7 @@
   <br>
   <a href="https://github.com/KapitenCool/kyronix"><img src="distribution/misc/IMG_7388.png" alt="Ryujinx" width="150"></a>
   <br>
-  <b>Ryujinx</b>
+  <b>Kyronix</b>
   <br>
   <sub><sup><b>(KI-RO-NIX)</b></sup></sub>
   <br>
