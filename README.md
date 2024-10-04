@@ -1,52 +1,24 @@
-As of now, the [ryujinx-mirror/ryujinx](https://github.com/ryujinx-mirror/ryujinx) repository serves as a downstream hard-fork of the original Ryujinx project. For the time being, this fork won't be accepting any new *major* changes until further information arises. We have reconstructed the essential build infrastructure, and you can download nightly binaries for Windows, Linux, and MacOS from the [latest release](https://github.com/ryujinx-mirror/ryujinx/releases/latest).
-
 > [!NOTE]
 > This fork is not affiliated with the **original** Ryujinx project, or Nintendo whatsoever.
 
 ### Current Goals
 
 * ☑️ Reconstruct basic build infrastructure & workflows for this repository, based on revision hashes as opposed to semver releases (for now)
-* ☑️ To be as safe as possible, remove all previous in-app and meta references to Patreon, `ryujinx.org` etc while keeping full attribution of original authors and contributors in-tact.
-* Keep 'branding' as pure and faithful to the original project as possible. 
-
-### Join Discussion
-
-Feel free to join the [Latte Softworks Discord community](https://latte.to/discord) to join in on the discussion & development of this fork going forward.<br>
-See `#ryujinx-info` for more information.
-
-[![Latte Softworks Discord](https://img.shields.io/discord/892211155303538748?label=Latte%20Softworks&logo=discord&logoColor=FFFFFF&color=5865F2)](https://latte.to/discord)
-
-___
-
+* ☑️ To be as safe as possible, remove all previous in-app and meta references to Patreon, `ryujinx.org` etc
 <h1 align="center">
   <br>
   <a href="https://github.com/ryujinx-mirror/ryujinx"><img src="distribution/misc/Logo.svg" alt="Ryujinx" width="150"></a>
   <br>
   <b>Ryujinx</b>
   <br>
-  <sub><sup><b>(REE-YOU-JINX)</b></sup></sub>
+  <sub><sup><b>(KI-RO-NIX)</b></sup></sub>
   <br>
 </h1>
 
 <p align="center">
-  Ryujinx is an open-source Nintendo Switch emulator, created by gdkchan, written in C#.
-  This emulator aims at providing excellent accuracy and performance, a user-friendly interface and consistent builds.
-  It was written from scratch and development on the project began in September 2017.
-  Ryujinx is available on Github under the <a href="LICENSE.txt" target="_blank">MIT license</a>.
-  <br />
-</p>
-
-## Compatibility
-
-As of May 2024, Ryujinx has been tested on approximately 4,300 titles;
-over 4,100 boot past menus and into gameplay, with roughly 3,550 of those being considered playable.
-
-You can check out the compatibility list [here](https://github.com/ryujinx-mirror/Ryujinx-Games-List/issues).
-
-Anyone is free to submit a new game test or update an existing game test entry;
-simply follow the new issue template and testing guidelines, or post as a reply to the applicable game issue.
-Use the search function to see if a game has been tested already!
-
+  Kyronix is an open-source Nintendo Switch emulator.
+This emulator aims at providing excellent accuracy and performance, a user-friendly interface and consistent builds.
+  
 ## Usage
 
 To run this emulator, your PC must be equipped with at least 8GiB of RAM;
@@ -65,7 +37,7 @@ For our Local Wireless (LDN) builds, see our [Multiplayer: Local Play/Local Wire
 These builds are compiled automatically for each commit on the master branch.
 While we strive to ensure optimal stability and performance prior to pushing an update, our automated builds **may be unstable or completely broken**.
 
-See [the releases page](https://github.com/ryujinx-mirror/ryujinx/releases) for automatic builds for Windows, macOS, and Linux.
+See [the releases page](https://github.com/KapitenCool/kyronix/releases) for automatic builds for Windows, macOS, and Linux.
 
 <!--
 If you want to see details on updates to the emulator, you can visit our [Changelog](https://github.com/ryujinx-mirror/Ryujinx/wiki/Changelog).
