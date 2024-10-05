@@ -7,7 +7,7 @@
 * ☑️ To be as safe as possible, remove all previous in-app and meta references to Patreon, `ryujinx.org` etc
 <h1 align="center">
   <br>
-  <a href="https://github.com/KapitenCool/kyronix"><img src="distribution/misc/IMG_7388.png" alt="Ryujinx" width="150"></a>
+  <a href="https://github.com/KapitenCool/kyronix"><img src="distribution/misc/IMG_7388.png" alt="Kyronix" width="150"></a>
   <br>
   <b>Kyronix</b>
   <br>
@@ -64,12 +64,12 @@ Either use `git clone https://github.com/KapitenCool/kyronix` on the command lin
 
 ### Step 3
 
-To build Ryujinx, open a command prompt inside the project directory.
+To build Kyronix, open a command prompt inside the project directory.
 You can quickly access it on Windows by holding shift in File Explorer, then right clicking and selecting `Open command window here`.
 Then type the following command: `dotnet build -c Release -o build`
 the built files will be found in the newly created build directory.
 
-Ryujinx system files are stored in the `Ryujinx` folder.
+Kyronix system files are stored in the `Kyronix` folder.
 This folder is located in the user folder, which can be accessed by clicking `Open Ryujinx Folder` under the File menu in the GUI.
 
 ## Features
@@ -120,15 +120,10 @@ This folder is located in the user folder, which can be accessed by clicking `Op
 If you have contributions, suggestions, need emulator support or just want to get in touch with the team, join our [Discord server](https://discord.com/invite/Ryujinx).
 You may also review our [FAQ](https://github.com/ryujinx-mirror/Ryujinx/wiki/Frequently-Asked-Questions).
 -->
-
-## License
-
-This software is licensed under the terms of the [MIT license](LICENSE.txt).
-This project makes use of code authored by the libvpx project, licensed under BSD and the ffmpeg project, licensed under LGPLv3.
-See [LICENSE.txt](LICENSE.txt) and [THIRDPARTY.md](distribution/legal/THIRDPARTY.md) for more details.
-
 ## Credits
-
+- [Ryujinx-Mirror]
+https://github.com/ryujinx-mirror/ryujinx
+- [Ryujinx Team]
 - [LibHac](https://github.com/Thealexbarney/LibHac) is used for our file-system.
 - [AmiiboAPI](https://www.amiiboapi.com) is used in our Amiibo emulation.
 - [ldn_mitm](https://github.com/spacemeowx2/ldn_mitm) is used for one of our available multiplayer modes.
