@@ -11,7 +11,7 @@
   <br>
   <b>Kyronix</b>
   <br>
-  <sub><sup><b>(KAI-RO-NIX)</b></sup></sub>
+  <sub><sup><b>(KI-RO-NIX)</b></sup></sub>
   <br>
 </h1>
 
