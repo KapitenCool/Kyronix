@@ -90,7 +90,7 @@ This folder is located in the user folder, which can be accessed by clicking `Op
   It translates the ARM code to a custom IR, performs a few optimizations, and turns that into x86 code.
   There are three memory manager options available depending on the user's preference, leveraging both software-based (slower) and host-mapped modes (much faster).
   The fastest option (host, unchecked) is set by default.
-  Ryujinx also features an optional Profiled Persistent Translation Cache, which essentially caches translated functions so that they do not need to be translated every time the game loads. 
+  Kyronix also features an optional Profiled Persistent Translation Cache, which essentially caches translated functions so that they do not need to be translated every time the game loads. 
   The net result is a significant reduction in load times (the amount of time between launching a game and arriving at the title screen) for nearly every game.
   NOTE: This feature is enabled by default in the Options menu > System tab.
   You must launch the game at least twice to the title screen or beyond before performance improvements are unlocked on the third launch!
@@ -99,7 +99,7 @@ This folder is located in the user folder, which can be accessed by clicking `Op
 - **GPU**
 
   The GPU emulator emulates the Switch's Maxwell GPU using either the OpenGL (version 4.5 minimum), Vulkan, or Metal (via MoltenVK) APIs through a custom build of OpenTK or Silk.NET respectively.
-  There are currently six graphics enhancements available to the end user in Ryujinx: Disk Shader Caching, Resolution Scaling, Anti-Aliasing, Scaling Filters (including FSR), Anisotropic Filtering and Aspect Ratio Adjustment.
+  There are currently six graphics enhancements available to the end user in Kyronix: Disk Shader Caching, Resolution Scaling, Anti-Aliasing, Scaling Filters (including FSR), Anisotropic Filtering and Aspect Ratio Adjustment.
   These enhancements can be adjusted or toggled as desired in the GUI.
 
 - **Input**
@@ -110,7 +110,7 @@ This folder is located in the user folder, which can be accessed by clicking `Op
 
 - **DLC & Modifications**
 
-  Ryujinx is able to manage add-on content/downloadable content through the GUI.
+  Kyronix is able to manage add-on content/downloadable content through the GUI.
   Mods (romfs, exefs, and runtime mods such as cheats) are also supported;
   the GUI contains a shortcut to open the respective mods folder for a particular game.
 
