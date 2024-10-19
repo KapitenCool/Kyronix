@@ -1,3 +1,5 @@
+[links/discord]: https://discord.gg/mq7fm4p3
+
 > [!NOTE]
 > This fork is not affiliated with the **original** Ryujinx project, or Nintendo whatsoever.
 
