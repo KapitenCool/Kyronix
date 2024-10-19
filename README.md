@@ -1,9 +1,10 @@
+> [!NOTE]
+> This fork is not affiliated with the **original** Ryujinx project, or Nintendo whatsoever.
+
 
 Join the Discord
 https://discord.gg/mq7fm4p3
 
-> [!NOTE]
-> This fork is not affiliated with the **original** Ryujinx project, or Nintendo whatsoever.
 
 ### Current Goals
 
